@@ -6,8 +6,6 @@ will transform the following JSON into a PIVOT table:
 
 ![Raw JSON](./images/01.raw-json.png)
 
-
-to 
+to
 
 ![Pivot Table](./images/02.pivot-result.png)
-
