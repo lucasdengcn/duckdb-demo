@@ -13,3 +13,7 @@ pip install -r requirements.txt
 ### Run the similarity calculation
 
 ### Export results to csv file
+
+## Similarity Search
+
+[Example](https://blog.brunk.io/posts/similarity-search-with-duckdb/)
