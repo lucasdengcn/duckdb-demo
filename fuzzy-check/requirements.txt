@@ -1,3 +1,5 @@
 Faker==8.12.1
 thefuzz==3.9.4
 rapidfuzz==0.22.1
+duckdb==1.1.0
+pandas==2.2.2
