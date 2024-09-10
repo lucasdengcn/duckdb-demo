@@ -41,10 +41,13 @@ def exported_rank_similarity():
 
 
 def main():
+    ts0 = time.time()
     prepare()
     calculate_similarity()
     exported_rank_similarity()
     con.close()
+    ts0 = time.time() - ts0
+    print(f"duration: {ts0} seconds")
 
 
 if __name__ == '__main__':
